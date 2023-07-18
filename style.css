@@ -1,0 +1,11 @@
+@media screen and (min-width:375px) and (max-width:750px) {
+body {
+  background-image:linear-gradient(to left , lightblue , lightgreen , lightyellow);
+}
+main {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+}
