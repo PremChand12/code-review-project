@@ -52,7 +52,7 @@ To get a local copy up and running, follow these steps.
 
 ### Prerequisites
 
-In order to run this project you need to clone the GitHub repository using the command: gitclone[(git@github.com:PremChand12/code-review-project.git)]
+In order to run this project you need to clone the GitHub repository using the command: gitclone[[(git@github.com:PremChand12/code-review-project.git)](https://github.com/PremChand12/code-review-project)]
 
 ### Setup
 
